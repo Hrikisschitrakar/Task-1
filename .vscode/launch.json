@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hrikisschitrakar/Desktop/Herald/Sem 3/Numerical methods/2329260_HrikissChitrakar_NMC/Task 1",
+      "program": "/Users/hrikisschitrakar/Desktop/Herald/Sem 3/Numerical methods/2329260_HrikissChitrakar_NMC/Task 1/build/Debug/outDebug"
+    }
+  ]
+}
